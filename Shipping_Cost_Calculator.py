@@ -12,3 +12,4 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
  # Here is a new update by masha1025
 
+git push --set-upstream origin shipping_calculator_fixes
